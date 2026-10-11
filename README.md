@@ -53,8 +53,8 @@ Outputs are written to `output/` (`output_quick/` in quick mode):
 
 | Folder | Contents |
 |---|---|
-| `tables/` | CSV tables. Files starting `D1_` to `D5_` correspond to Appendix D.1–D.5. |
-| `figures/` | `fig_*.pdf`: paper figures. `*_pp_check_panel.pdf`: posterior predictive checks. `*.png`: other plots. |
+| `tables_repo/` | CSV tables. Files starting `D1_` to `D5_` correspond to Appendix D.1–D.5. |
+| `Figures_repo/` | `fig_*.pdf`: paper figures. `*_pp_check_panel.pdf`: posterior predictive checks. `*.png`: other plots. |
 | `summaries/` | Model summaries and contrasts as text. |
 | `fits/` | Fitted models. Re-running reloads them instead of refitting, unless the data or model change. |
 
