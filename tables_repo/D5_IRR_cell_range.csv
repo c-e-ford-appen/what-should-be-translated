@@ -1,0 +1,4 @@
+outcome,median_alpha,min_alpha,max_alpha
+"English appropriateness (nominal, given retained)",0.21072,-0.4322,0.61871
+"Quality (ordinal, given translated)",0.39117,0.08994,0.70921
+Was translated (binary),0.6872,0.04968,0.94548

@@ -1,0 +1,45 @@
+comparison,level,estimate,lower,upper,credible,factor
+harmful_vs_culturally_appropriate,GPT-5,-0.4748527636817247,-0.7438738007847012,-0.2146305441606191,TRUE,model
+harmful_vs_culturally_appropriate,gpt-oss 120B,0.1855354864522549,-0.025460599591481205,0.39905742690470575,FALSE,model
+harmful_vs_culturally_appropriate,Claude Sonnet 4,-0.563505076029014,-0.9158817584531588,-0.22717875373978103,TRUE,model
+harmful_vs_culturally_appropriate,Cohere Aya Expanse 8B,0.8473779078544615,0.564776858591871,1.1351283792343214,TRUE,model
+harmful_vs_culturally_appropriate,DeepSeek V3.1,0.19328213400076197,-0.050616434644137245,0.43496942296514635,FALSE,model
+harmful_vs_culturally_appropriate,Llama 4,0.15371450211720109,-0.11843370467903411,0.4260011019762682,FALSE,model
+harmful_vs_culturally_appropriate,Mistral Medium 3.1,-0.34155219071393944,-0.7051551184005437,0.01722196635716847,FALSE,model
+harmful_vs_culturally_appropriate,Afrikaans,-0.8585610721893842,-2.5020612669583273,0.8494157785872692,FALSE,language
+harmful_vs_culturally_appropriate,Arabic,1.9221034060892626,-0.008380477141907462,3.8661873553937482,FALSE,language
+harmful_vs_culturally_appropriate,Brazilian Portuguese,-0.724731149223614,-2.4342357099573033,1.0165428978264786,FALSE,language
+harmful_vs_culturally_appropriate,Cantonese,-1.0245822967222549,-2.6998672000592707,0.7038600063507043,FALSE,language
+harmful_vs_culturally_appropriate,Czech,-0.5131751637397624,-2.2132304017033517,1.172093934326268,FALSE,language
+harmful_vs_culturally_appropriate,Dutch,-0.1075419009239954,-1.8106966344041528,1.5976739176158492,FALSE,language
+harmful_vs_culturally_appropriate,Hebrew,1.2348417836458216,-0.5273896299301813,3.008658491521407,FALSE,language
+harmful_vs_culturally_appropriate,Hindi,-0.08858685866929511,-1.8354421812979622,1.6691190875356139,FALSE,language
+harmful_vs_culturally_appropriate,Japanese,0.9616287911806125,-0.7165623257153995,2.607845663223645,FALSE,language
+harmful_vs_culturally_appropriate,Korean,0.7269296123175143,-0.9614666466629096,2.4323768406961523,FALSE,language
+harmful_vs_culturally_appropriate,Mandarin,-1.6880289978579455,-3.3721350109324586,0.024140122914596985,FALSE,language
+harmful_vs_culturally_appropriate,Russian,-0.2119613225568662,-1.8828467364828936,1.5247067363848674,FALSE,language
+harmful_vs_culturally_appropriate,Spanish,-0.16052476704983587,-1.8515765549820402,1.536441988501997,FALSE,language
+harmful_vs_culturally_appropriate,Swahili,-0.276527120337291,-1.9919019430762537,1.4091397284617966,FALSE,language
+harmful_vs_culturally_appropriate,Urdu,0.8087170560370358,-1.0558709437613398,2.6943133090935847,FALSE,language
+no_good_translation_vs_culturally_appropriate,GPT-5,-0.18216022347343458,-0.3959412686732709,0.03623033493878404,FALSE,model
+no_good_translation_vs_culturally_appropriate,gpt-oss 120B,0.1073976578706827,-0.09434058866227395,0.31453444852230794,FALSE,model
+no_good_translation_vs_culturally_appropriate,Claude Sonnet 4,-0.11750159503397933,-0.37607510403841643,0.14937954982694718,FALSE,model
+no_good_translation_vs_culturally_appropriate,Cohere Aya Expanse 8B,0.14343417549733534,-0.1239227697181288,0.4222448636717804,FALSE,model
+no_good_translation_vs_culturally_appropriate,DeepSeek V3.1,-0.24570042324131933,-0.510596611159974,0.015185769559385175,FALSE,model
+no_good_translation_vs_culturally_appropriate,Llama 4,0.2609508814351294,0.018651270058325568,0.5136650682021318,TRUE,model
+no_good_translation_vs_culturally_appropriate,Mistral Medium 3.1,0.033579526945585136,-0.47013876461659665,0.42835074244227056,FALSE,model
+no_good_translation_vs_culturally_appropriate,Afrikaans,1.1845744170682955,-0.8232018178005039,3.185528939671473,FALSE,language
+no_good_translation_vs_culturally_appropriate,Arabic,0.3125329988081202,-2.0461938361638663,2.6210720390234443,FALSE,language
+no_good_translation_vs_culturally_appropriate,Brazilian Portuguese,-0.4595934659716617,-2.498359078659281,1.566128594620517,FALSE,language
+no_good_translation_vs_culturally_appropriate,Cantonese,-0.16220988744133147,-2.1913150160562243,1.885055610956113,FALSE,language
+no_good_translation_vs_culturally_appropriate,Czech,-0.06234068132928499,-2.227270419803789,2.075997444550103,FALSE,language
+no_good_translation_vs_culturally_appropriate,Dutch,1.6908778193090077,-0.3614956015682711,3.7824225246878895,FALSE,language
+no_good_translation_vs_culturally_appropriate,Hebrew,1.0930985392566064,-0.9949043003250593,3.188372041167513,FALSE,language
+no_good_translation_vs_culturally_appropriate,Hindi,-1.19068852353206,-3.385129831499795,1.0328362758961442,FALSE,language
+no_good_translation_vs_culturally_appropriate,Japanese,-1.4470574640338094,-3.500783690930817,0.6250416937656503,FALSE,language
+no_good_translation_vs_culturally_appropriate,Korean,-0.34634542996436163,-2.376620835106533,1.7455871926912903,FALSE,language
+no_good_translation_vs_culturally_appropriate,Mandarin,-2.1903834012446217,-4.240173552529458,-0.10825479919497155,TRUE,language
+no_good_translation_vs_culturally_appropriate,Russian,-1.0365156270117402,-3.1160501713051207,1.0322466150698073,FALSE,language
+no_good_translation_vs_culturally_appropriate,Spanish,1.2837930871125975,-0.6985643888320534,3.248210881068721,FALSE,language
+no_good_translation_vs_culturally_appropriate,Swahili,1.8832490680992005,-0.14339133736989457,3.882405425588555,FALSE,language
+no_good_translation_vs_culturally_appropriate,Urdu,-0.5529914491249577,-3.109749282646877,1.9908125711351796,FALSE,language

@@ -1,0 +1,4 @@
+model,n_obs,draws,max_rhat,worst_rhat_param,min_ess_bulk,min_ess_tail,divergent,max_treedepth
+SM1,54598,12000,1.0103603184417327,"r_segment_id[email_3_13,Intercept]",477.0830350839359,928.0011908722611,0,10
+SM2,44439,12000,1.0042456678629534,sd_segment_id__Intercept,1318.6621353192118,2773.3746782393005,0,8
+SM3,10130,12000,1.0027194754915925,sd_segment_id__munogoodtranslationenglishbest_Intercept,1877.3442792362757,3571.689817176155,0,9

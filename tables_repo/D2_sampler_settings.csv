@@ -1,0 +1,7 @@
+setting,value
+chains,4
+iter,4000
+warmup,1000
+post-warmup draws,12000
+seed,2026
+SM3 adapt_delta,0.95
