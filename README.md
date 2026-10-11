@@ -22,7 +22,7 @@ produces every model, table and figure in the paper.
 | `install.R` | Installs the required R packages. |
 | `session_info.txt` | R and package versions used for the reported results. |
 
-## What the released data leave out
+## Exclusions from the released data
 
 Rater identities (emails and platform IDs), free-text comments and
 demographic answers are not released. Raters appear only as anonymous IDs
